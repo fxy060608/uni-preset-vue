@@ -12,7 +12,7 @@ module.exports = [{
   },
   {
     name: 'Hello uni-app',
-    value: 'dcloudio/hello-uniapp'
+    value: 'direct:https://github.com/dcloudio/hello-uniapp#dev'
   },
   {
     name: '登录模板',
