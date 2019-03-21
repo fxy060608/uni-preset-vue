@@ -37,7 +37,7 @@ module.exports = (api, options, rootOptions) => {
       return {
         dependencies: {
           'vue-class-component': '^6.3.2',
-          'vue-property-decorator': '^7.2.0'
+          'vue-property-decorator': '^8.0.0'
         },
         devDependencies: {
           '@babel/plugin-syntax-typescript': '^7.2.0',
