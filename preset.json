@@ -3,7 +3,7 @@
     "plugins": {
         "@dcloudio/vue-cli-plugin-uni": {},
         "@vue/cli-plugin-babel": {
-            "version": "3.4.1",
+            "version": "3.5.1",
             "presets": [
                 ["@vue/app", {
                     "useBuiltIns": "entry"
